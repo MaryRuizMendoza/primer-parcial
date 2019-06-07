@@ -1,0 +1,7 @@
+C:\Users\yanet\Documents\proyectosUT\Parcial1Programacion\Parcial1Programacion\bin\Debug\Parcial1Programacion.exe.config
+C:\Users\yanet\Documents\proyectosUT\Parcial1Programacion\Parcial1Programacion\bin\Debug\Parcial1Programacion.exe
+C:\Users\yanet\Documents\proyectosUT\Parcial1Programacion\Parcial1Programacion\bin\Debug\Parcial1Programacion.pdb
+C:\Users\yanet\Documents\proyectosUT\Parcial1Programacion\Parcial1Programacion\obj\Debug\Parcial1Programacion.csprojAssemblyReference.cache
+C:\Users\yanet\Documents\proyectosUT\Parcial1Programacion\Parcial1Programacion\obj\Debug\Parcial1Programacion.csproj.CoreCompileInputs.cache
+C:\Users\yanet\Documents\proyectosUT\Parcial1Programacion\Parcial1Programacion\obj\Debug\Parcial1Programacion.exe
+C:\Users\yanet\Documents\proyectosUT\Parcial1Programacion\Parcial1Programacion\obj\Debug\Parcial1Programacion.pdb
